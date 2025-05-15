@@ -1,0 +1,92 @@
+.list {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.poolItem {
+    padding: 10px 20px;
+    display: flex;
+    background: #24292F;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    justify-content: space-between;
+}
+
+.poolName {
+    width: 40%;
+}
+
+.swapFee {
+    width: 33%;
+}
+
+.action {
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+
+.action span {
+    margin-left: 5px;
+}
+
+.title {
+    color: #ccc;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.value {
+    font-size: 18px;
+    color: #fff;
+}
+
+.spinWrap {
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 500px) {
+    .list {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .poolItem {
+        flex-wrap: wrap;
+    }
+
+    .poolName {
+        width: 65%;
+    }
+
+    .swapFee {
+        width: 35%;
+    }
+
+    .action {
+        width: 100%;
+        margin-top: 15px;
+        justify-content: center;
+        background: #fff;
+        color: #24292F;
+        padding: 8px;
+        border-radius: 5px;
+    }
+
+    .action span {
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 380px) {
+    .poolName {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    .swapFee {
+        width: 100%;
+    }
+}

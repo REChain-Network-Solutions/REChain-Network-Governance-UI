@@ -1,0 +1,33 @@
+.walletWrap {
+  background-color: #24292F;
+  padding: 25px;
+  box-sizing: border-box;
+  border-radius: 25px;
+}
+
+.walletAddress {
+  color: #fff;
+  transition: .5s;
+  display: inline-flex;
+  align-items: center;
+}
+
+.walletAddress:hover {
+  color: #fff;
+  opacity: .5;
+  transition: .5s;
+}
+
+.active {
+  margin-bottom: 10px;
+}
+
+.addWalletWrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pr_5{
+  padding-right: 5px;
+}

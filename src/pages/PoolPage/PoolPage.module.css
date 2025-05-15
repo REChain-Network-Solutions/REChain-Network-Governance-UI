@@ -1,0 +1,65 @@
+.dataLoaderWrap {
+  display: flex;
+  justify-content: center;
+  margin-top: calc(50vh - 158px);
+}
+
+.poolLoaderWrap {
+  display: flex;
+  justify-content: center;
+}
+
+.changeParamsWrap {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.selectorWrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+  border-radius: 25px;
+  flex-direction: row;
+  background: #24292F;
+}
+
+.selectorWrapNewline {
+  flex-direction: column;
+  background: transparent;
+}
+
+.selector {
+  width: 90%;
+}
+
+.selectorWrapNewline .selector {
+  width: 100%;
+}
+
+.selectorLinks {
+  padding-right: 15px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 20%;
+  padding-left: 5px;
+}
+
+.selectorWrapNewline .selectorLinks {
+  width: 100%;
+  padding-left: 0;
+  flex-direction: row;
+  justify-content: center;
+  padding-right: 0;
+  margin-top: 5px;
+}
+
+.selectorWrapNewline .selectorLinks a {
+  margin-right: 20px;
+}
+
+.selectorWrapNewline .selectorLinks a:last-child {
+  margin-right: 0;
+}

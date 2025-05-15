@@ -1,0 +1,21 @@
+.logo {
+  max-width: 64px;
+  margin: 36px auto;
+  /* display: inline-block; */
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Chrome/Safari/Opera */
+  -khtml-user-select: none;
+  /* Konqueror */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+}
+
+.logoWrap {
+  width: 100%;
+  text-align: center;
+}

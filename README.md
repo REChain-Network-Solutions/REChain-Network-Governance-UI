@@ -1,2 +1,25 @@
-# REChain-Network-Governance-UI
-The REChain Network Governance UI is part of the REChain Network Solutions GitHub organization, which focuses on developing decentralized solutions using blockchain technology. Their mission is to ensure user privacy, data security, and anonymity on the internet by leveraging blockchain's capabilities. 
+# REChain (v2) governance
+
+## Install
+
+Install node.js, clone the repository, then say
+
+```sh
+yarn
+```
+
+## ENV
+
+Copy the appropriate .env.XXXX file to .env
+
+## Run
+
+```sh
+yarn start
+```
+
+## Build
+
+```sh
+yarn build
+```

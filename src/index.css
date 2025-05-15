@@ -1,0 +1,49 @@
+body {
+  background-color: #121519;
+  color: #fff;
+}
+
+.ant-modal-content, .ant-select-dropdown {
+  border-radius: 20px !important;
+}
+
+.ant-btn {
+  border-radius: 20px;
+}
+
+.ant-modal-header, .ant-modal-footer, .ant-modal-content {
+  border-radius: 20px !important;
+}
+
+.ant-btn-group .ant-btn-primary {
+  border-radius: 0;
+  border-color: transparent;
+}
+
+.ant-btn-group {
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.ant-btn-group a {
+  margin-left: 0 !important;
+}
+
+.ant-btn-group .ant-btn-icon-only {
+  padding-left: 7px;
+  padding-right: 5px;
+  border-color: transparent;
+}
+
+.ant-input-affix-wrapper-lg,
+.ant-alert, .ant-input {
+  border-radius: 20px !important;
+}
+
+.ant-message-notice-content {
+  border-radius: 20px !important;
+}
+
+.ant-input {
+  border-radius: 0 !important;
+}
