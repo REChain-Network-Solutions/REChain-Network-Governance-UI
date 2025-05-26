@@ -16,7 +16,7 @@
     "axios": "^1.8.2",
     "classnames": "^2.5.1",
     "craco": "^0.0.3",
-    "craco-less": "^2.0.0",
+    "craco-less": "^3.0.1",
     "lodash": "^4.17.21",
     "obyte": "^0.1.23",
     "obyte-qr-button": "^0.0.16",
