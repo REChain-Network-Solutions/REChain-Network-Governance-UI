@@ -12,7 +12,7 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^12.1.5",
     "@testing-library/user-event": "^13.5.0",
-    "antd": "^5.26.3",
+    "antd": "^5.26.4",
     "axios": "^1.10.0",
     "classnames": "^2.5.1",
     "craco": "^0.0.3",
