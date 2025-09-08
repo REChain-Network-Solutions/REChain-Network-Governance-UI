@@ -8265,10 +8265,10 @@ obyte-qr-button@^0.0.16:
     qrcode.react "^1.0.1"
     react-string-replace "^0.4.4"
 
-obyte@^0.1.23:
-  version "0.1.23"
-  resolved "https://registry.yarnpkg.com/obyte/-/obyte-0.1.23.tgz#b197f10fa543201a2bb49b2ca2b397356e87d21f"
-  integrity sha512-hAmkv8S83+fbBc1oXO9KP7ht/A6h0t/ogLs262BRKfZUujWp2a8Jch/eUe++vgKEMpY11i1Eu9XrqfV/RttCvA==
+obyte@^0.1.24:
+  version "0.1.24"
+  resolved "https://registry.yarnpkg.com/obyte/-/obyte-0.1.24.tgz#509a87d0c7a0aa274e37f62d2c6fbcc05c0213b4"
+  integrity sha512-+IJdBb2kcboBh1buVWohHPZglSc/REdzEbzaFPODXeaQVL+OZelLFHFHzjQM+8w+X7cqa8VG8x0mTacAEE7WsQ==
   dependencies:
     babel-runtime "^6.26.0"
     create-hash "^1.2.0"
