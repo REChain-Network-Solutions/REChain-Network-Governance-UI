@@ -13,7 +13,7 @@
     "@testing-library/react": "^12.1.5",
     "@testing-library/user-event": "^13.5.0",
     "antd": "^5.27.6",
-    "axios": "^1.12.2",
+    "axios": "^1.13.1",
     "classnames": "^2.5.1",
     "craco": "^0.0.3",
     "craco-less": "^3.0.1",
