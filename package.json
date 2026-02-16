@@ -6,7 +6,7 @@
     "@ant-design/icons": "^6.1.0",
     "@craco/craco": "^7.1.0",
     "@fortawesome/fontawesome-svg-core": "^7.0.1",
-    "@fortawesome/free-brands-svg-icons": "^7.1.0",
+    "@fortawesome/free-brands-svg-icons": "^7.2.0",
     "@fortawesome/react-fontawesome": "^0.2.6",
     "@reduxjs/toolkit": "^2.11.2",
     "@testing-library/jest-dom": "^6.9.1",
